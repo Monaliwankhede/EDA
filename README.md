@@ -1,7 +1,6 @@
 # EDA
 
-
-       EDA, or Exploratory Data Analysis, is a crucial step in the data analysis process. It involves examining and visualizing data to gain insights, discover patterns, detect anomalies, and formulate hypotheses. EDA helps analysts and data scientists understand the structure and characteristics of the data before applying more advanced statistical or machine learning techniques.
+EDA, or Exploratory Data Analysis, is a crucial step in the data analysis process. It involves examining and visualizing data to gain insights, discover patterns, detect anomalies, and formulate hypotheses. EDA helps analysts and data scientists understand the structure and characteristics of the data before applying more advanced statistical or machine learning techniques.
 
 Here are the main components and techniques commonly used in EDA:
 
@@ -36,7 +35,7 @@ Here are the main components and techniques commonly used in EDA:
 10 : Interactive Exploration: With advancements in technology, interactive tools and dashboards have become popular for EDA. These tools 
      allow users to explore data dynamically, drill down into details, and gain insights through an interactive interface.
 
-          EDA is an iterative process, and the insights gained from initial analysis may guide subsequent steps or raise new questions. It plays a crucial role in understanding the data and forming the foundation for further analysis and modeling tasks.
+EDA is an iterative process, and the insights gained from initial analysis may guide subsequent steps or raise new questions. It plays a crucial role in understanding the data and forming the foundation for further analysis and modeling tasks.
 
 
 
